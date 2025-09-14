@@ -23,7 +23,7 @@ LOGIN PAGE
 
 
 Now you can choose between our 4 programs and use what is needed,
-You can run the python code and easily access the program.
+You can run the python code and easily access the program, everything will work the same.
 
 
 
